@@ -1,0 +1,3 @@
+libs.hxml
+-cp src/
+-main pokeshinx.Main

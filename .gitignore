@@ -1,0 +1,10 @@
+# output files
+out/
+
+# cached files
+res/.tmp/
+
+
+# IDE files
+.vscode/
+
